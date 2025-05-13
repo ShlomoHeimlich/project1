@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\bin\Debug\test-1.exe.config
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\bin\Debug\test-1.exe
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\bin\Debug\test-1.pdb
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\obj\Debug\test-1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\obj\Debug\test-1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\obj\Debug\test-1.exe
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\obj\Debug\test-1.pdb
+C:\Users\HP\Desktop\c -sharp\test-1\test-1\obj\Debug\test-1.exe.config
